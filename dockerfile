@@ -1,4 +1,4 @@
-:FROM centos:7
+FROM centos:7
 
 MAINTAINER Thanish Infotech thanishinfotech@gmail.com
 
@@ -15,4 +15,3 @@ WORKDIR /root
 
 # Define default command.
 CMD ["bash"]
-
